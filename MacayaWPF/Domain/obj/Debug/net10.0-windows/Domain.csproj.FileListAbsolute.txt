@@ -1,0 +1,11 @@
+D:\macayaIPT102\MacayaIPT102\Domain\bin\Debug\net10.0-windows\Domain.deps.json
+D:\macayaIPT102\MacayaIPT102\Domain\bin\Debug\net10.0-windows\Domain.dll
+D:\macayaIPT102\MacayaIPT102\Domain\bin\Debug\net10.0-windows\Domain.pdb
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.AssemblyInfoInputs.cache
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.AssemblyInfo.cs
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.csproj.CoreCompileInputs.cache
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.dll
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\refint\Domain.dll
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\Domain.pdb
+D:\macayaIPT102\MacayaIPT102\Domain\obj\Debug\net10.0-windows\ref\Domain.dll

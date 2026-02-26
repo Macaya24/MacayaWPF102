@@ -1,0 +1,17 @@
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.csproj.AssemblyReference.cache
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.AssemblyInfoInputs.cache
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.AssemblyInfo.cs
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.csproj.CoreCompileInputs.cache
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Framework.deps.json
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Framework.dll
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Framework.pdb
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Domain.dll
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Repository.dll
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Domain.pdb
+D:\macayaIPT102\MacayaIPT102\Framework\bin\Debug\net8.0-windows\Repository.pdb
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.csproj.Up2Date
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.dll
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\refint\Framework.dll
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\Framework.pdb
+D:\macayaIPT102\MacayaIPT102\Framework\obj\Debug\net8.0-windows\ref\Framework.dll

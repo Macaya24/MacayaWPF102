@@ -1,0 +1,11 @@
+D:\macayaIPT102\MacayaIPT102\Repository\bin\Debug\net10.0-windows\Repository.deps.json
+D:\macayaIPT102\MacayaIPT102\Repository\bin\Debug\net10.0-windows\Repository.dll
+D:\macayaIPT102\MacayaIPT102\Repository\bin\Debug\net10.0-windows\Repository.pdb
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.AssemblyInfoInputs.cache
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.AssemblyInfo.cs
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.csproj.CoreCompileInputs.cache
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.dll
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\refint\Repository.dll
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\Repository.pdb
+D:\macayaIPT102\MacayaIPT102\Repository\obj\Debug\net10.0-windows\ref\Repository.dll

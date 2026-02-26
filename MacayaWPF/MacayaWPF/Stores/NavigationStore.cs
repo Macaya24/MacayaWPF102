@@ -1,0 +1,27 @@
+using MacayaWPF.ViewModels;
+using System;
+
+namespace MacayaWPF.Stores
+{
+    public class NavigationStore
+    {
+        private BaseViewModel _currentViewModel;
+
+        public BaseViewModel CurrentViewModel
+        {
+            get => _currentViewModel;
+            set
+            {
+                _currentViewModel = value;
+                OnCurrentViewModelChanged();
+            }
+        }
+
+        public event Action CurrentViewModelChanged;
+
+        private void OnCurrentViewModelChanged()
+        {
+            CurrentViewModelChanged?.Invoke();
+        }
+    }
+}
